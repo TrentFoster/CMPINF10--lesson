@@ -1,0 +1,1 @@
+CoC --> Contributor Covenant
